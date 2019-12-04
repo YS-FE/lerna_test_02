@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/YS-FE/lerna_test_02/issues"
   },
-  "gitHead": "110aa5af4810bc26f12cb8ce1a97421fbb456adb"
+  "gitHead": "43b14c564e89dda3e5e968b255338a9f17b09a94"
 }
