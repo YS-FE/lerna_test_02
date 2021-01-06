@@ -28,7 +28,7 @@
     "url": "https://github.com/YS-FE/lerna_test_02/issues"
   },
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "gitHead": "43b14c564e89dda3e5e968b255338a9f17b09a94"
 }
